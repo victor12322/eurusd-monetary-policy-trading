@@ -1,0 +1,10 @@
+numpy
+pandas
+streamlit
+plotly
+requests
+beautifulsoup4
+pydantic
+litellm
+pypdf
+yfinance
